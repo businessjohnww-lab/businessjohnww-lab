@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  <em>Powered by caffeine, curiosity, and autonomous agents.</em>
+  <em>Build cost-effective tool .</em>
 </p>
